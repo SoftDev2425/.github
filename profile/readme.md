@@ -8,8 +8,8 @@ This organization is dedicated to assignments and collaborative projects for our
 - **Rasmus T** [GitHub](https://github.com/), [LinkedIn](https://github.com/owaisad)
 
 ## Technologies & Tools
-- **Languages**:
-- **Frameworks**:
-- **Tools**:
+- **Languages**: Mainly TypeScript, Python (occasionally C#/Java)
+- **Frameworks**: 
+- **Tools**: Docker
 
 ## Projects
