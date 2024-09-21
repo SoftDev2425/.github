@@ -12,4 +12,10 @@ This organization is dedicated to assignments and collaborative projects for our
 - **Frameworks**: 
 - **Tools**: Docker
 
-## Projects
+## Exam Projects
+- **[Database exam project]()**: ...
+- **[]()**
+- **[]()**
+
+## Nice side projects & Exercises
+- **[]()**
