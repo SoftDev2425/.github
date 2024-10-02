@@ -5,6 +5,7 @@ This organization is dedicated to assignments and collaborative projects for our
 ## Collaborators
 - **Owais D** [GitHub](https://github.com/owaisad), [LinkedIn](https://github.com/owaisad)
 - **Andreas F** [GitHub](https://github.com/), [LinkedIn](https://github.com/owaisad)
+- **Rasmus T**
 
 ## Technologies & Tools
 - **Languages**: Mainly TypeScript, Python (occasionally C#/Java)
